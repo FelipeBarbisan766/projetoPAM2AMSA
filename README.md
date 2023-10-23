@@ -1,1 +1,1 @@
-# projetoPAM2AMSA
+# Jogo Pong em JavaScript
